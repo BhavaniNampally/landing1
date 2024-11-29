@@ -1,0 +1,67 @@
+.image {
+    width: 100%;
+}
+
+.linear-gradient-bg {
+    background-image: linear-gradient(to right,#9db33d,#78b33d,#f263e4,#fa34b8,#fa345f,#fa3434);
+    height: 150px;
+    width: 100%;
+}
+
+.para {
+    color: rgb(241, 231, 231);
+}
+
+.icon-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.landing-navbar {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Caveat";
+    color: white;
+}
+.about-heading {
+    color: black;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+.about-subtitle {
+    font-size: 22px;
+}
+.about-para {
+    color: dimgray;
+    font-size: 15px;
+}
+.about-image {
+    width: 330px;
+    height: 330px;
+}
+.about-button {
+    background-image: linear-gradient(to right,#348afa,#8734fa,#e334fa);
+    width: 120px;
+    height: 40px;
+    border-radius: 18px;
+    border-width: 0px;
+}
+.bg-service {
+    background-image: url('https://img.freepik.com/free-vector/worldwide-connection-gray-background-illustration-vector_53876-61772.jpg');
+}
+.service-image {
+    width: 300px;
+    height: 250px;
+}
+.service-heading {
+    font-size: 35px;
+    
+}
+.service-para {
+    font-weight: bold;
+    color: darkolivegreen;
+    font-size: 25px;
+    text-align: center;
+}
